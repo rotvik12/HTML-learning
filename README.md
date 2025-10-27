@@ -20,3 +20,7 @@ Progress - 26%
 
 20.10.2025
 I was promoted to JIRA administrator in work, so i focus more on that. Will be back.
+
+27.10.2025
+What i learned - HTML Images (images, image map, background images, the picture element).
+Progress - 32%
