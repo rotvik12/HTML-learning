@@ -17,3 +17,6 @@ Progress - 22%
 17.10.2025
 What i learned - HTML links, links colors, link bookmarks
 Progress - 26%
+
+20.10.2025
+I was promoted to JIRA administrator in work, so i focus more on that. Will be back.
