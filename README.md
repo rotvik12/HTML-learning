@@ -24,3 +24,10 @@ I was promoted to JIRA administrator in work, so i focus more on that. Will be b
 27.10.2025
 What i learned - HTML Images (images, image map, background images, the picture element).
 Progress - 32%
+
+1.4.2026
+Hello, so i had a lot of thing that happened in my life. Also, with service desk i am now doing Jira Administration, so i was learning how to manage things properly.
+Unfortunatelly with JSM, i have poor teacher, so i am coming secretlly back to programming.
+About HTML... maybe my tome will come again, but for now, i created new repository about learning Python and backend overall.
+
+So for now, let this be my good bye, lets see what will future bring.
